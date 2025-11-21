@@ -13,7 +13,7 @@ This repository is organized by programming language and platform. Each solution
 If you'd like to contribute by adding more solutions or improving the repository, please feel free to open a **Pull Request**. To maintain consistency, follow these guidelines:
 
 1. Organize solutions by **platform** and **number**.
-2. Name the files using the platform name and number (e.g., `1001.cpp`, `1002.py`).
+2. Name the files using the platform name and number (e.g., `Codeforces-1001.cpp`, `AtCoder1002.py`).
 3. Include comments in the code to explain the logic when necessary.
 4. Ensure the code is well-formatted and follows good programming practices.
 
