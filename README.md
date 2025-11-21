@@ -17,14 +17,8 @@ If you'd like to contribute by adding more solutions or improving the repository
 3. Include comments in the code to explain the logic when necessary.
 4. Ensure the code is well-formatted and follows good programming practices.
 
-Note: This repository is a personal project and is not officially affiliated with VJudge, AtCoder, or Codeforces. Each platform provides a unique set of challenges and is a great resource for learning and practicing programming. For more information on these platforms, visit the following links:
+Note: This repository is a personal project and is not officially affiliated with online platforms. Each platform provides a unique set of challenges and is a great resource for learning and practicing programming.
 
-[VJudge](https://vjudge.net/)
-
-[AtCoder](https://atcoder.jp/)
-
-[Codeforces](https://codeforces.com/)
-
-Contact
+## Contact
 
 If you have any questions or suggestions, feel free to open an issue or submit a pull request.
